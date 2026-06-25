@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/chandrika-bandaru/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
