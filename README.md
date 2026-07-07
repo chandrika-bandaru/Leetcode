@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/chandrika-bandaru/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/chandrika-bandaru/Leetcode/tree/master/0069-sqrtx) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
