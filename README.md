@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/chandrika-bandaru/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/chandrika-bandaru/Leetcode/tree/master/0069-sqrtx) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandrika-bandaru/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -20,6 +21,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chandrika-bandaru/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -126,4 +128,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandrika-bandaru/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
