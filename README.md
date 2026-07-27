@@ -19,6 +19,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/chandrika-bandaru/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandrika-bandaru/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chandrika-bandaru/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chandrika-bandaru/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandrika-bandaru/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -107,6 +109,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
