@@ -107,6 +107,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/chandrika-bandaru/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chandrika-bandaru/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/chandrika-bandaru/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/chandrika-bandaru/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
