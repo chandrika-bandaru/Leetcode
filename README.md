@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/chandrika-bandaru/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/chandrika-bandaru/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chandrika-bandaru/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrika-bandaru/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -68,6 +70,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Database
@@ -136,6 +139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chandrika-bandaru/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -155,4 +159,16 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/chandrika-bandaru/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
