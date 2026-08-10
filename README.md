@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/chandrika-bandaru/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -141,6 +142,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chandrika-bandaru/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chandrika-bandaru/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -163,12 +165,23 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
