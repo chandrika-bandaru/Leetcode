@@ -39,6 +39,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
 | ------- |
