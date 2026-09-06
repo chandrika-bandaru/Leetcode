@@ -115,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/chandrika-bandaru/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrika-bandaru/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -156,6 +157,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/chandrika-bandaru/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chandrika-bandaru/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
