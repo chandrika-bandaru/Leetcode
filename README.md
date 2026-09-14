@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/chandrika-bandaru/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/chandrika-bandaru/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/chandrika-bandaru/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/chandrika-bandaru/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/chandrika-bandaru/Leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrika-bandaru/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandrika-bandaru/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chandrika-bandaru/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
